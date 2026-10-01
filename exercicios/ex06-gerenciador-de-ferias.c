@@ -131,7 +131,12 @@ void exibirDados()
 	saldoFerias(5);
 	maiorSaldoFerias(5);
 	menorSaldoFerias(5);
-}	
+}
+
+int inserirIdade(int idade)
+{
+	return idade;
+}
 
 int main()
 { 
